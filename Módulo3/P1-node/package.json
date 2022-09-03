@@ -1,0 +1,16 @@
+{
+  "name": "p1-node",
+  "version": "1.0.0",
+  "description": "P1 em node e npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste",
+    "npm",
+    "init"
+  ],
+  "author": "jadley",
+  "license": "ISC"
+}
